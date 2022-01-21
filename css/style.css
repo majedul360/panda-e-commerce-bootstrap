@@ -90,3 +90,16 @@ header ul li .custom-link {
     color:black;
     margin: 1rem 0;
 }
+
+.touch {
+    background:#fceae8;
+}
+
+.touch .box {
+    border: .1rem solid black;
+    padding: 1.2rem 1.4rem;
+    text-transform: none;
+    max-width:40rem;
+    font-size: 1.7rem;
+    margin: 1rem 0;
+}
